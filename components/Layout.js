@@ -2,9 +2,9 @@ import NavBar from "./NavBar"
 
 const Layout = ({children}) => {
     return (
-        <div>
+        <div className="flex flex-col">
             <NavBar/>
-            <main>{children}</main>
+            <main className="ms-10">{children}</main>
         </div>
     )
 

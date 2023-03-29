@@ -1,0 +1,7 @@
+Title                             | Description                                        | Languages/Frameworks | Date
+Database on the Overwatch League  |                                                    | MySql                                          | 2020
+Easy Animator                     |                                                    | Java, Swing, Model-View Controller             | 2020
+Distributed Key Value Store       |                                                    | Python                                         | 2021
+Tuiter                            | Twitter Clone                                      | React.js, Node.js, Bootstrap, Express, MongoDB | 2022
+Pokemon Team Builder Website      |                                                    | ^ Same as above                                | 2022
+Personal Website                  | Personal Website to display my projects            | NextJS, JavaScript, Tailwind CSS               | 2023
