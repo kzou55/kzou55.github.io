@@ -6,10 +6,7 @@ const Socials = () => {
             {socials.map((social) => (
                 <a href={social.url} target="_blank" rel="noopener noreferrer">
                     {social.icon}
-                </a>
-                ))
-            }
-
+                </a>))}
         </div>
     )
 
