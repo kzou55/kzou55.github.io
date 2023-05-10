@@ -5,7 +5,7 @@ const Projects = () => {
 
     return (
         <div>
-            <h1 className="mb-5 flex font-bold text-2xl justify-center">My Projects</h1>
+            <h1 className="mb-5 flex font-bold text-2xl justify-center text-white">My Projects</h1>
             <div className="grid md:grid-cols-3 gap-5">
                 {projects.map((p) => (
                     <ProjectCard project={p}/>
